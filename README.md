@@ -1,39 +1,34 @@
-<h1 align="center">Hi, aku {{Nama Panggilan}} 👋</h1>
+<h1 align="center">Hi, aku Ilyas 👋</h1>
 
 
 <p align="center">
-{{Satu kalimat nilai/role}} — fokus di <b>{{3 topik}}</b>
+Junior Full‑Stack Developer — fokus di <b>Laravel/PHP</b>, <b>Node.js/Express</b>, dan <b>Flutter</b>
 </p>
 
 
 <p align="center">
-<a href="{{Link Portfolio}}">Website</a> •
-<a href="{{Link LinkedIn}}">LinkedIn</a> •
-<a href="mailto:{{email}}">Email</a>
+<a href="#">Portfolio (coming soon)</a> •
+<a href="https://www.linkedin.com/in/">LinkedIn</a> •
+<a href="mailto:{{email_kamu}}">Email</a>
 </p>
 
 
 ### 🚀 Proyek Unggulan
-- **{{Nama Proyek 1}}** — {{satu kalimat manfaat}}
-<sub>Stack: {{stack}}, Demo: {{link demo}}, Repo: {{link repo}}</sub>
-- **{{Nama Proyek 2}}** — {{satu kalimat manfaat}}
-<sub>Stack: {{stack}}, Demo: {{link demo}}, Repo: {{link repo}}</sub>
-- **{{Nama Proyek 3}}** — {{satu kalimat manfaat}}
-<sub>Stack: {{stack}}, Demo: {{link demo}}, Repo: {{link repo}}</sub>
+- **QRIS Generator Dinamis** — upload QRIS, baca data merchant, dan buat QR dinamis sesuai nominal.
+<sub>Stack: PHP, AJAX · Demo: *(opsional tambahkan link)* · Repo: https://github.com/IlyasAlhafiz/qris-generator-dinamis</sub>
+- **Laravel Sanctum API** — contoh API auth token‑based dengan Sanctum.
+<sub>Stack: Laravel, Sanctum · Repo: https://github.com/IlyasAlhafiz/laravel-sanctum</sub>
+- **Backend Express** — REST API dasar untuk latihan backend.
+<sub>Stack: Node.js, Express · Repo: https://github.com/IlyasAlhafiz/backend-express</sub>
 
 
 ### 🧰 Tech Toolbox
-{{Badge/ikon singkat teknologi utama}}
+PHP · Laravel · JavaScript · Node.js · Express · Flutter · Dart · HTML/CSS · MySQL
 
 
-### 📈 Statistik (opsional)
-![streak](https://streak-stats.demolab.com?user={{username}})
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username={{username}}&layout=compact)
+### 📈 Statistik
+![streak](https://streak-stats.demolab.com?user=IlyasAlhafiz)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyasAlhafiz&layout=compact)
 
 
-### ✍️ Terbaru
-- {{Post/Artikel terbaru #1}} — {{link}}
-- {{Post/Artikel terbaru #2}} — {{link}}
-
-
-> _“{{Satu kutipan kerja/filosofi}}”_
+> _“Belajar yang konsisten lebih kuat dari sprint singkat.”_
