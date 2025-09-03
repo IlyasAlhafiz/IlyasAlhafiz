@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Snake Game — Ilyas</title>
+    <meta name="description" content="Snake game sederhana berbasis HTML Canvas + JavaScript." />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="data:," />
+  </head>
+  <body>
+    <main class="container">
+      <header class="header">
+        <h1>🐍 Snake Game</h1>
+        <p class="subtitle">Panah ← ↑ → ↓ untuk bergerak • P untuk jeda • R untuk reset</p>
+      </header>
+
+      <section class="hud">
+        <div class="stat">Skor: <span id="score">0</span></div>
+        <div class="stat">High Score: <span id="highscore">0</span></div>
+        <div class="stat">Kecepatan: <span id="speedLabel">Normal</span></div>
+        <div class="controls">
+          <button id="btnSlow">Lambat</button>
+          <button id="btnNormal" class="active">Normal</button>
+          <button id="btnFast">Cepat</button>
+        </div>
+      </section>
+
+      <canvas id="board" width="480" height="480" aria-label="Papan permainan snake" role="img"></canvas>
+
+      <section class="footer">
+        <button id="btnPause">⏸️ Jeda (P)</button>
+        <button id="btnReset">🔄 Reset (R)</button>
+        <a class="gh" href="https://github.com/IlyasAlhafiz/snake-game" target="_blank" rel="noopener">Repo GitHub</a>
+      </section>
+    </main>
+
+    <template id="gameOverTpl">
+      <div class="modal">
+        <div class="modal-card">
+          <h2>Game Over 💀</h2>
+          <p>Skor kamu: <b id="finalScore">0</b></p>
+          <div class="modal-actions">
+            <button id="playAgain">Main Lagi</button>
+            <button id="closeModal">Tutup</button>
+          </div>
+        </div>
+      </div>
+    </template>
+
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Node tooling (jika pakai tooling lokal)
+node_modules/
+dist/
+
+# Editor
+.vscode/
+.idea/
+*.log
