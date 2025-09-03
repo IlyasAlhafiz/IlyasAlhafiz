@@ -4,11 +4,6 @@
   Full-Stack Developer — <b>Laravel/PHP</b>, <b>Node.js/Express</b>, <b>Flutter</b>
 </p>
 
-<p align="center">
-  <a href="mailto:ilyas@example.com">Email</a> •
-  <a href="https://www.linkedin.com/in/">LinkedIn</a>
-</p>
-
 ---
 
 ### 🚀 Proyek Unggulan
