@@ -30,34 +30,4 @@
 PHP · Laravel · JavaScript · Node.js · Express · Flutter · Dart · HTML/CSS · MySQL
 
 ### 📈 Statistik
-![streak](https://streak-stats.demolab.com?user=IlyasAlhafiz)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyasAlhafiz&layout=compact)
-
----
-
-# 🐍 Snake Game — Ilyas
-
-![build](https://img.shields.io/badge/status-stable-22c55e)
-![license](https://img.shields.io/badge/license-MIT-blue)
-![pages](https://img.shields.io/badge/GitHub%20Pages-ready-3b82f6)
-
-> Game snake sederhana berbasis **HTML Canvas + JavaScript**. Ringan, responsif, dan gampang di-modif.
-
-## 🎮 Demo
-- **Main online:** (aktifkan GitHub Pages) `https://ilyasalhafiz.github.io/snake-game/`
-- GIF: `docs/demo.gif` *(opsional, tambahkan sendiri)*
-
-## ✨ Fitur
-- Kontrol panah / WASD
-- Skor & High Score (localStorage)
-- 3 kecepatan: Lambat / Normal / Cepat
-- Pause (P) & Reset (R)
-- UI modern gelap + animasi halus
-
-## 🚀 Quick Start
-```bash
-git clone https://github.com/IlyasAlhafiz/snake-game.git
-cd snake-game
-# cukup buka index.html di browser
-# atau jalankan server lokal (opsional):
-# python -m http.server 5173
