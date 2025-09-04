@@ -16,9 +16,6 @@
 - **Backend Express** — REST API latihan backend.  
   <sub>Node.js, Express · Repo: <a href="https://github.com/IlyasAlhafiz/backend-express">backend-express</a></sub>
 
-- **Snake Game (Baru!)** — game klasik HTML/JS, playable di GitHub Pages.  
-  <sub>HTML, CSS, JS · Repo: <a href="https://github.com/IlyasAlhafiz/snake-game">snake-game</a></sub>
-
 ---
 
 ### 🧰 Tech Toolbox
